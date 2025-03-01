@@ -168,6 +168,7 @@ function VerifyEmail() {
         >
           Resend verification code
         </button>
+        <p className='mt-4 w-full text-center text-sm hover:text-black text-gray-600'>To find the verification code, check the Console tab (Ctrl+Shift+J)</p>
       </div>
     </div>
   );
